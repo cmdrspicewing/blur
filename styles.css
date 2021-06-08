@@ -1,7 +1,18 @@
 
+.text {
+    position: absolute;
+    margin: 0 auto;
+    top: 0;
+    left: 0;
+    width: 200px;
+    backdrop-filter: blur(6px);
+}
+
 .test {
     position: absolute;
     margin: 0 auto;
+    background: grey;
+    opacity: 0.1;
     top: 0;
     left: 0;
     width: 30%;
