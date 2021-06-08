@@ -1,0 +1,11 @@
+
+.test {
+    position: absolute;
+    margin: 0 auto;
+    top: 0;
+    left: 0;
+    width: 30%;
+    height: 10%;
+    backdrop-filter: blur(6px);
+    z-index: 1;
+}
